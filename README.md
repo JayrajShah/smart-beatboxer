@@ -2,6 +2,10 @@
 
 Project Under Making
 
+## ML aided by:
+
+[Nicholas Renotte's Repo](https://github.com/nicknochnack/PosenetRealtime)
+
 Utilities:
 
 - [TensorFlowJS Pose Estimation](https://www.tensorflow.org/lite/models/pose_estimation/overview).
